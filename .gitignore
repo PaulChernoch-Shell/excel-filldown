@@ -1,0 +1,5 @@
+# Excel temporary
+~$*.xls*
+
+# Word temporary
+~$*.doc*
