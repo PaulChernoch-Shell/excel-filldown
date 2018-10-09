@@ -1,0 +1,19 @@
+{
+  "name": "excel-filldown",
+  "version": "1.0.0",
+  "description": "Load an Excel file, parse it, and fill-down missing values from previous records.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[using values from previous records",
+  "main": "test-parse-excel.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulChernoch-Shell/excel-filldown.git"
+  },
+  "author": "Paul Chernoch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulChernoch-Shell/excel-filldown/issues"
+  },
+  "homepage": "https://github.com/PaulChernoch-Shell/excel-filldown#readme"
+}
